@@ -28,7 +28,7 @@ hi Question ctermfg=magenta
 hi Search ctermfg=black ctermbg=magenta
 hi SignColumn ctermbg=black
 hi SpecialKey ctermbg=magenta
-hi Title ctermbg=magenta ctermfg=white
+hi Title ctermfg=magenta
 hi WarningMsg ctermbg=yellow ctermfg=black
 hi WildMenu ctermbg=white ctermfg=black
 hi Pmenu ctermbg=magenta ctermfg=black
